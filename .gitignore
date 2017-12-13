@@ -8,8 +8,8 @@ pom.xml.asc
 *.class
 
 # Ever-changing files
-clojure-webscrapper.iml
-*-webscrapper.iml
+clojure-webscraper.iml
+*-webscraper.iml
 
 # Lein
 /.lein-*
