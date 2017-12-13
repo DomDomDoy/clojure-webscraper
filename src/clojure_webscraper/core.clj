@@ -1,4 +1,4 @@
-(ns clojure-webscrapper.core
+(ns clojure-webscraper.core
   (:require [net.cgrand.enlive-html :as html]
             [org.httpkit.client :as http]))
 
