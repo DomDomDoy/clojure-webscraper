@@ -2,11 +2,7 @@
 
 Following the guide located [here](http://masnun.com/2016/03/20/web-scraping-with-clojure.html)
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
+## Installation/Usage
 
   1. `git clone --recursive https://github.com/ashellwig/clojure-webscraper.git`
   2. `cd clojure-webscraper`
@@ -21,23 +17,12 @@ Download from http://example.com/FIXME.
 
 ## Options
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+NONE :: Please edit source to the site you need until I learn
+exactly how arguments work.
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017 Ashton Hellwig
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
