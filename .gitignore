@@ -7,6 +7,9 @@ pom.xml.asc
 *.jar
 *.class
 
+# Ever-changing files
+C:\Users\hellw\Documents\Projects\clojure-webscrapper\clojure-webscrapper.iml
+
 # Lein
 /.lein-*
 /.nrepl-port
