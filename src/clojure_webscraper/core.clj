@@ -1,6 +1,7 @@
 (ns clojure-webscraper.core
-  (:require [net.cgrand.enlive-html :as html]
-            [org.httpkit.client :as http]))
+  (:require
+    [net.cgrand.enlive-html :as html]
+    [org.httpkit.client :as http]))
 
 
 ; Fetch HTML Response
